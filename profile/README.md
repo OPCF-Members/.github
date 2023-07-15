@@ -1,0 +1,1 @@
+This repository contains projects that are only accessible to OPC Foundation members. Any employee of a member company can request access by linking their GitHub account to their OPC Foundation website account. The linking is done [here](https://opcf-members.github.io/Help/).
