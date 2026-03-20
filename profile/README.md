@@ -3,7 +3,7 @@
 These respositories contain projects with draft and release candidate material that are available to OPC Foundation Members only.
 
 ### Requesting Access
-Access is managed by the application [here](https://utilities.opcfoundation.org/account).
+Access is managed by the application [here](https://memberportal.opcfoundation.org/api/access-request)).
 
 Anyone who has a email provided by a paying member of the OPC Foundation may request access (Logo Members do not qualify). 
 
